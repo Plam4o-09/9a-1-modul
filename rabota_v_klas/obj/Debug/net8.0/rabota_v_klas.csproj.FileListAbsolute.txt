@@ -1,0 +1,14 @@
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\bin\Debug\net8.0\rabota_v_klas.exe
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\bin\Debug\net8.0\rabota_v_klas.deps.json
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\bin\Debug\net8.0\rabota_v_klas.runtimeconfig.json
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\bin\Debug\net8.0\rabota_v_klas.dll
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\bin\Debug\net8.0\rabota_v_klas.pdb
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\rabota_v_klas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\rabota_v_klas.AssemblyInfoInputs.cache
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\rabota_v_klas.AssemblyInfo.cs
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\rabota_v_klas.csproj.CoreCompileInputs.cache
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\rabota_v_klas.dll
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\refint\rabota_v_klas.dll
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\rabota_v_klas.pdb
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\rabota_v_klas.genruntimeconfig.cache
+C:\Users\1409-5\Desktop\svetlomir Xa\rabota_v_klas\obj\Debug\net8.0\ref\rabota_v_klas.dll
